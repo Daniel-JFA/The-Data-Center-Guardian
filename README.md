@@ -30,6 +30,19 @@ Tu script debe evaluar y mostrar los siguientes resultados:
 
 ---
 
+## 🌟 Bonus: ¡Sube tu Nota! (Puntos Extra)
+
+Para los desarrolladores que quieran destacar y demostrar su capacidad de investigación, se otorgará una **bonificación en la calificación** si se implementan funcionalidades adicionales utilizando las siguientes librerías de la biblioteca estándar de Python:
+
+* **`import math`**
+* **`import os`**
+* **`import datetime`**
+* **`import time`**
+
+> **Nota:** No se evaluará solo la importación de la librería, sino la implementación lógica y creativa de sus funciones dentro del script de monitoreo. ¡Sorprende al equipo técnico con un programa profesional!
+
+* **Validación Avanzada:** Usa funciones de la librería estándar para darle un formato más limpio y estético a los resultados impresos en consola.
+
 ## 🚀 Instrucciones de Entrega
 
 1. **Entorno:** Abre este repositorio en **GitHub Codespaces**.
